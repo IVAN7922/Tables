@@ -1,0 +1,30 @@
+table.truths {
+    border: 3px solid rgb(201, 10, 10);
+}
+
+table.comparisons1 {
+    border: 3px solid rgb(60, 22, 197);
+}
+
+table.comparisons2 {
+    border: 3px solid rgb(63, 197, 9);
+}
+
+th {
+    border: 2px solid gray;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+
+td {
+    border: 2px solid gray;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
